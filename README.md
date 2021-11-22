@@ -1,5 +1,3 @@
-https://github.com/epaulukonis/binder_test/blob/main/example1.ipynb
-
 # binder_test
 a test repo for checking out the binder aspect of python
 
